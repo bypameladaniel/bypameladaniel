@@ -1,4 +1,9 @@
-## Hi there 👋
+### I'm Pamela, a full-time Software Engineering student @ Concordia University 💻📚
+
+Work experience:<br>
+• Software Developer Intern @ [Desjardins](https://www.desjardins.com/qc/en.html)<br>
+• Backend Developer Intern @ [Libéo](https://libeo.com/)<br>
+
 
 <!--
 **bypameladaniel/bypameladaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
