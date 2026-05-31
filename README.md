@@ -1,6 +1,7 @@
 ### I'm Pamela, a full-time Software Engineering student @ Concordia University 💻📚
 
 Work experience:<br>
+• Software Developer (ML) Intern @ [Coveo](https://www.coveo.com/en)<br>
 • Software Developer Intern @ [Desjardins](https://www.desjardins.com/qc/en.html)<br>
 • Backend Developer Intern @ [Libéo](https://libeo.com/)<br>
 
